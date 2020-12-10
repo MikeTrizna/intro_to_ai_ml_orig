@@ -1,9 +1,9 @@
 ---
 title: "Introduction"
-teaching: 0
+teaching: 20
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What will be covered in this lesson?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:

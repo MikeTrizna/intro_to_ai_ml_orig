@@ -1,7 +1,7 @@
 ---
 title: Setup
 ---
-FIXME
+No files downloaded for this lesson.
 
 
 {% include links.md %}

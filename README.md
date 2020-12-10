@@ -1,6 +1,4 @@
-# FIXME Lesson title
-
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
+# Intro to Artificial Intelligence and Machine Learning
 
 **Thanks for contributing to The Carpentries Incubator!**
 This repository provides a blank starting point for lessons to be developed here.
@@ -15,19 +13,19 @@ and make sure you have everything you need to begin developing your new lesson.
 Before you begin developing your new lesson,
 here are a few things we recommend you do:
 
-* [ ] Decide on a title for your new lesson!
+* [x] Decide on a title for your new lesson!
   Once you've chosen a new title, you can set the value for `lesson_title`
   in [`_config.yml`](_config.yml)
-* [ ] Add the URL to your built lesson pages to the repository description\*
-* [ ] Fill in the fields marked `FIXME` in:
+* [x] Add the URL to your built lesson pages to the repository description\*
+* [x] Fill in the fields marked `FIXME` in:
   * this README
   * [`_config.yml`](_config.yml)
-* [ ] If you're going to be developing lesson material for the first time
+* [x] If you're going to be developing lesson material for the first time
   according to our design principles,
   consider reading the [Carpentries Curriculum Development Handbook][cdh]
-* [ ] Consult the [Lesson Example][lesson-example] website to find out more about
+* [x] Consult the [Lesson Example][lesson-example] website to find out more about
   working with the lesson template
-* [ ] Update this README with relevant information about your lesson
+* [x] Update this README with relevant information about your lesson
   and delete this section
 
 \* To set the URL on GitHub, click the gear wheel button next to **About**
@@ -57,9 +55,7 @@ Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%
 
 Current maintainers of this lesson are
 
-* FIXME
-* FIXME
-* FIXME
+* Mike Trizna
 
 
 ## Authors
