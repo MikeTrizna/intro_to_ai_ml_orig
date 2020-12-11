@@ -1,7 +1,7 @@
 ---
 title: "Applying machine learning"
-teaching: 20
-exercises: 15
+teaching: 15
+exercises: 10
 questions:
 - "How can I test out machine learning on a handful of samples?"
 - "What are ways of scaling up in machine learning?"

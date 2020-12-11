@@ -1,6 +1,6 @@
 ---
 title: "What is Machine Learning good at?"
-teaching: 40
+teaching: 30
 exercises: 10
 questions:
 - "What kinds of tasks do machine learning models excel at?"

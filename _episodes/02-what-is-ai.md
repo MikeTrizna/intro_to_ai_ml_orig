@@ -1,7 +1,7 @@
 ---
 title: "What are AI and Machine Learning?"
-teaching: 40
-exercises: 20
+teaching: 30
+exercises: 15
 questions:
 - "What is the difference between Artificial Intelligence and Machine Learning?"
 - "What is the data science life cycle?"

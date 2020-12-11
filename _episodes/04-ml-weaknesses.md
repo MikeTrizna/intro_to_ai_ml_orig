@@ -4,7 +4,8 @@ teaching: 30
 exercises: 10
 questions:
 - "What types of tasks are hard for machine learning?"
-- "What ways do dataset construction affect models?"
+- "How does dataset construction affect models?"
+- "How can machine learning make biased decisions?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
